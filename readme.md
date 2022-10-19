@@ -1,7 +1,7 @@
 
 ## Information
 
-XenonStack Techinical Assignment
+Login Register
 Design & Develop a website using nodejs/python/java/go having 3 pages login,signup,about us
 
 This full stack website is written in nodejs using mongodb as a detabase 
@@ -11,7 +11,7 @@ Frontend is written in vanillajs
 
 
 ```bash
-    git clone https://github.com/frenzycoder7/XenonStack_Technical_task.git
+    git clone https://github.com/Deepak8210/LoginRegister.git
 ```
 After clone
 
@@ -49,5 +49,5 @@ now navigate to frontend folder and run it using serve package
 
 ## Related
 
-For more help related code follow my org  
-[frenzycoders](https://github.com/frenzycoders)
+For more help related code follow me 
+(https://github.com/Deepak8210)
